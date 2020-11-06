@@ -2,6 +2,8 @@
    :target: https://travis-ci.org/python-control/python-control
 .. image:: https://coveralls.io/repos/python-control/python-control/badge.png
    :target: https://coveralls.io/r/python-control/python-control
+.. image:: https://readthedocs.org/projects/python-control/badge/?version=0.8.3
+   :target: https://python-control.readthedocs.io/en/0.8.3/
 
 Python Control Systems Library
 ==============================
